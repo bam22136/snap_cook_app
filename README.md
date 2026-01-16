@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+git init project
+
+1. path project
+2. git init
+3. git add .
+4. git commit -m "Initial commit"
+5. git remote add origin [repository_url]
+6. git branch -M main
+7. git push -u origin main
